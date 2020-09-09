@@ -27,6 +27,7 @@ vicinity = result['vicinity']
 data = [name, place_id, lat, lng, rating, types, vicinity]
 final_data.append(data)
 time.sleep(5)
+print()
 if 'next_page_token' not in jj:
 break
 else:
