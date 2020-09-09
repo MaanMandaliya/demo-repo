@@ -7,7 +7,6 @@ Both side:
 6. 404 ni error kay aavi na joiae.
 7. remove loder in all page.
 
-	
 Admin Side :
 1. footer comment in all page.
 2. remove placeholder in all page.
