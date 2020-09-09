@@ -1,0 +1,20 @@
+Both side: 
+1. Remove comment code.
+2. remove Extra code.
+3. Change Title
+4. test mate nakhelu alert kadhvu.
+5. menu icon chang karvu.
+6. 404 ni error kay aavi na joiae.
+7. remove loder in all page.
+
+	
+Admin Side :
+1. footer comment in all page.
+2. remove placeholder in all page.
+3. All Page ma proper minimum 5 data Entry karvi.
+
+User Side:
+1. About US nu page banavu(time hoy to).
+2. menu icon chang karvu.
+3. ALL page ma Manage Word kadhvo.
+4. Feedback star aene first ma lava , subject ni uper.
